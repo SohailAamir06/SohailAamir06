@@ -8,7 +8,10 @@
 <h3 align="center">A passionate CSE student & future full-stack developer from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26FPOd0T1xCO2G5nG/giphy.gif">
+<p>
+  <img align="right" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif" alt="MasterHead" width="400"/>
+</p>
+
 
 - 🌱 I’m currently learning **DSA, Web Development, and AI**
 
