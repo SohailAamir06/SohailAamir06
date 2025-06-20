@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
 </p>
+![Profile views](https://profile-counter.glitch.me/SohailAamir06/count.svg)
 
 ---
 
