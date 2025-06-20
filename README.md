@@ -9,9 +9,8 @@
 
 - 🤝 I’m open to contributing to **college and tech community projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio (optional)](https://yourwebsite.com)
-
-- 📫 How to reach me: **sohailaamir06@gmail.com**
+- 👨‍💻 All of my projects will soon be available
+- 📫 How to reach me: **amrsohail2006@gmail.com**
 
 - ⚡ Fun fact: I think code is art 🧠🎨
 
