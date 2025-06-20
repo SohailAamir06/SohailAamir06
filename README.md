@@ -1,4 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aamir Sohail</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SohailAamir06&color=blue" alt="Profile views" />
+</p>
+
+<p align="center"><strong>👨‍💻 Visitors count above — and yes, I believe in GitHub streaks over Snapchat streaks 😄🔥</strong></p>
+
+<h3 align="center">A passionate CSE student & future full-stack developer from India</h3>
+
+<h1 align="center">Hi 👋, I'm Aamir Sohail</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SohailAamir06&color=blue" alt="Profile views" />
 </p>
