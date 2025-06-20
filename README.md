@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aamir Sohail</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SohailAamir06&color=blue" alt="Profile views" />
+</p>
 <h3 align="center">A passionate CSE student & future full-stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26FPOd0T1xCO2G5nG/giphy.gif">
 
 - 🌱 I’m currently learning **DSA, Web Development, and AI**
 
@@ -10,6 +13,7 @@
 - 🤝 I’m open to contributing to **college and tech community projects**
 
 - 👨‍💻 All of my projects will soon be available
+
 - 📫 How to reach me: **amrsohail2006@gmail.com**
 
 - ⚡ Fun fact: I think code is art 🧠🎨
@@ -18,15 +22,14 @@
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react" alt="React" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a>
 </p>
-
 
 ---
 
