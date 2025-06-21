@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif" width="600" alt="Pixel Dev Mario" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif"
+       alt="Pixel Coder"
+       width="700"
+       style="max-width: 100%;" />
 </p>
-
-
 
 <h1 align="center">Hi 👋, I'm Aamir Sohail</h1>
 <h3 align="center">A passionate CSE student & future full-stack developer from India</h3>
+
 
 
 - 🌱 I’m currently learning **DSA, Web Development, and AI**  
