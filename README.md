@@ -6,6 +6,12 @@
 <h3 align="center">A passionate CSE student & future full-stack developer from India</h3>
 
 
+<p align="center"> 
+  <strong>🚀 Visitors Count:</strong><br>
+  <img src="https://profile-counter.glitch.me/SohailAamir06/count.svg" />
+</p>
+
+
 
 - 🌱 I’m currently learning **DSA, Web Development, and AI**  
 - 👯 I’m looking to collaborate on **open-source projects**  
