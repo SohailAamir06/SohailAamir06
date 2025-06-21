@@ -5,10 +5,11 @@
 <h1 align="center">Hi 👋, I'm Aamir Sohail</h1>
 
 
-<p align="center"> 
+<p align="center">
   <strong>🚀 Visitors Count:</strong><br>
-  <img src="https://profile-counter.glitch.me/SohailAamir06/count.svg" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=40E0D0&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsohailaamir06.github.io%2Fvisits" />
 </p>
+
 
 <h3 align="center">A passionate CSE student & future full-stack developer from India</h3>
 
