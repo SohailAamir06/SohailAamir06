@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SohailAamir06/SohailAamir06
-/main/assets/pixel-dev.gif" width="600" alt="Pixel Dev" />
+  <img src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif" width="600" alt="Pixel Dev Mario" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Aamir Sohail</h1>
