@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif" 
-       alt="Pixel Dev" 
-       width="600" />
+  <img src="https://raw.githubusercontent.com/SohailAamir06/SohailAamir06
+/main/assets/pixel-dev.gif" width="600" alt="Pixel Dev" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Aamir Sohail</h1>
 <h3 align="center">A passionate CSE student & future full-stack developer from India</h3>
