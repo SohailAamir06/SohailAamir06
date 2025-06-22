@@ -46,5 +46,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SohailAamir06&theme=radical" width="47%" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohailAamir06&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohailAamir06&layout=compact&theme=radical" width="50%" />
 </p>
