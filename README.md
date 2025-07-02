@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aamir Sohail</h1> 
- 
+
 <p align="center"> 
   <strong>🚀 Visitors Count:</strong><br>
   <img src="https://profile-counter.glitch.me/SohailAamir06/count.svg" />
