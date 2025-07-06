@@ -12,7 +12,7 @@
 <h3 align="center">A passionate CSE student & future full-stack developer from India</h3>
 
 ---
-
+ 
 - 🌱 I’m currently learning **DSA, Web Development, and AI**  
 - 👯 I’m looking to collaborate on **open-source projects**  
 - 🤝 I’m open to contributing to **college and tech community projects**  
