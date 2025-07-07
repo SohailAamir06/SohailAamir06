@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif" width="100%" alt="Pixel Developer Banner"/>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif" width="100%" alt="Pixel Developer Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aamir Sohail</h1> 
+<h1 align="center">Hi 👋, I'm Aamir Sohail</h1>
 
 <p align="center">
-  <strong>🚀 Visitors Count:</strong><br>
-  <img src="https://profile-counter.glitch.me/SohailAamir06/count.svg" alt="visitor badge"/>
+  <img src="https://profile-counter.glitch.me/SohailAamir06/count.svg" alt="Visitor Count" />
+  <br>
+  <strong>🚀 Total Visitors</strong>
 </p>
 
-<h3 align="center">A passionate CSE student & aspiring full-stack developer from India</h3>
+<h3 align="center">A passionate CSE student & aspiring full-stack developer from India 🇮🇳</h3>
 
 ---
 
@@ -25,13 +26,13 @@
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aamir-sohail-88783b345/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/CodeInChaos/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/profile/CodeIn_Chaos">
-    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
 </p>
 
@@ -55,8 +56,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SohailAamir06&show_icons=true&theme=transparent&hide_border=true&title_color=00ffff&text_color=cccccc&icon_color=00ffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohailAamir06&layout=compact&theme=transparent&hide_border=true&title_color=00ffff&text_color=cccccc"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SohailAamir06&show_icons=true&theme=transparent&hide_border=true&title_color=00ffff&text_color=cccccc&icon_color=00ffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohailAamir06&layout=compact&theme=transparent&hide_border=true&title_color=00ffff&text_color=cccccc" />
 </p>
 
 ---
@@ -81,7 +82,7 @@
 ### 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SohailAamir06&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=SohailAamir06&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
