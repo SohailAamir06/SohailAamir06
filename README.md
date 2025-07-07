@@ -18,7 +18,7 @@
 - 🤝 I’m open to contributing to **college and tech community projects**  
 - 👨‍💻 All of my projects will soon be available  
 - 📫 How to reach me: **amrsohail2006@gmail.com**  
-- ⚡ Fun fact: I think code is art 🧠🎨  
+- ⚡ Fun fact: I think code randomness in ordered manner🧠🎨  
 
 ---
 
