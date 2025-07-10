@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **DSA, Web Development, and AI**  
 - 👯 I’m looking to collaborate on **open-source projects**  
 - 🤝 I’m open to contributing to **college and tech community projects**  
-- 👨‍💻 All of my projects will soon be available on GitHub  
+- 👨‍💻 All of my projects will soon be available on GitHub   
 - 📫 Reach me at: **amrsohail2006@gmail.com**  
 - ⚡ Fun fact: I think code randomness in an ordered manner 🧠🎨  
 
