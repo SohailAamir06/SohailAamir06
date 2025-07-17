@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aamir Sohail</h1>
- 
+  
 <h2 align="center"><strong>🚀 Total Visitors</strong></h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SohailAamir06&label=Profile+Visits&color=brightgreen&style=for-the-badge" alt="visitor badge"/>
